@@ -19,7 +19,7 @@ NovaGraph turns mathematical expressions into interactive graphs directly in the
 
 ## 🖥️ Demo
 
-**Live app:** https://aetousif.github.io/my-react-app
+**Live app:** https://aetousif.github.io/NovaGraph/
 
 > The GitHub Pages URL is configured in the project's `package.json`.
 
